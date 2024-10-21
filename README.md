@@ -103,7 +103,7 @@ int main() {
 <br>
 
 <div align="center">
-<img src="./stack.png">
+<img src="./Stack.png">
 <br>
 <h4> Figure-1: Output of Stack Implementation </h4> 
 </div>
