@@ -8,7 +8,7 @@
                  
 <br>                 
   
-    A queue is a linear data structure that follows the FIFO (First In, First Out) principle. The first element added to the queue is the first one to be removed. A queue typically has two main operations: enqueue (to add an element to the end) and dequeue (to remove an element from the front). It can be implemented using arrays, linked lists, or other data structures. In this experiment, we are using an array to implement the queue without utilizing the Standard Template Library (STL).
+A queue is a linear data structure that follows the FIFO (First In, First Out) principle. The first element added to the queue is the first one to be removed. A queue typically has two main operations: enqueue (to add an element to the end) and dequeue (to remove an element from the front). It can be implemented using arrays, linked lists, or other data structures. In this experiment, we are using an array to implement the queue without utilizing the Standard Template Library (STL).
       
 
 <br> <br>
