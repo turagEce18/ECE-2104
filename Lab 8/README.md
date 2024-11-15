@@ -8,7 +8,7 @@
                  
 <br>                 
   
-    Bubble Sort is one of the simplest sorting algorithms. It repeatedly compares adjacent elements of the array and swaps them if they are in the wrong order. This process is repeated until the array is sorted. The algorithm is called "Bubble Sort" because larger elements "bubble up" to their correct position with each pass. Its time complexity is O(n²), making it inefficient for large datasets, but it's useful for understanding basic sorting concepts.
+Bubble Sort is one of the simplest sorting algorithms. It repeatedly compares adjacent elements of the array and swaps them if they are in the wrong order. This process is repeated until the array is sorted. The algorithm is called "Bubble Sort" because larger elements "bubble up" to their correct position with each pass. Its time complexity is O(n²), making it inefficient for large datasets, but it's useful for understanding basic sorting concepts.
       
 
 <br> <br>
