@@ -8,7 +8,7 @@
                  
 <br>                 
   
-    Insertion Sort is a simple sorting algorithm that works similarly to the way you might sort playing cards in your hands. The array is virtually split into two parts: sorted and unsorted. The algorithm picks elements from the unsorted part and inserts them into their correct position in the sorted part. It is efficient for small datasets and mostly sorted data, with a time complexity of O(n²) in the worst case and O(n) in the best case.
+Insertion Sort is a simple sorting algorithm that works similarly to the way you might sort playing cards in your hands. The array is virtually split into two parts: sorted and unsorted. The algorithm picks elements from the unsorted part and inserts them into their correct position in the sorted part. It is efficient for small datasets and mostly sorted data, with a time complexity of O(n²) in the worst case and O(n) in the best case.
       
 
 <br> <br>
