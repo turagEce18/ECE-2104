@@ -8,7 +8,7 @@
                  
 <br>                 
   
-    Binary Search is an efficient algorithm used to find an element in a sorted array. Instead of searching the entire array sequentially like Linear Search, Binary Search works by dividing the array in half at each step. If the target element is smaller than the middle element, the search continues in the left half, otherwise in the right half. This process is repeated until the target is found or the search space is empty. Binary Search has a time complexity of O(log n), making it faster than Linear Search for large arrays.
+Binary Search is an efficient algorithm used to find an element in a sorted array. Instead of searching the entire array sequentially like Linear Search, Binary Search works by dividing the array in half at each step. If the target element is smaller than the middle element, the search continues in the left half, otherwise in the right half. This process is repeated until the target is found or the search space is empty. Binary Search has a time complexity of O(log n), making it faster than Linear Search for large arrays.
       
 
 <br> <br>
