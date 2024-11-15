@@ -8,7 +8,7 @@
                  
 <br>                 
   
-    Quick Sort is an efficient, recursive, divide-and-conquer sorting algorithm. It works by selecting a pivot element from the array and partitioning the other elements into two sub-arrays: those less than the pivot and those greater than the pivot. This process is repeated recursively for both sub-arrays. Quick Sort is known for its average-case time complexity of O(n log n), making it faster for large datasets. However, its worst-case time complexity is O(n²) when the smallest or largest element is consistently chosen as the pivot.
+Quick Sort is an efficient, recursive, divide-and-conquer sorting algorithm. It works by selecting a pivot element from the array and partitioning the other elements into two sub-arrays: those less than the pivot and those greater than the pivot. This process is repeated recursively for both sub-arrays. Quick Sort is known for its average-case time complexity of O(n log n), making it faster for large datasets. However, its worst-case time complexity is O(n²) when the smallest or largest element is consistently chosen as the pivot.
       
 
 <br> <br>
