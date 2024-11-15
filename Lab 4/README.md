@@ -8,7 +8,7 @@
                  
 <br>                 
   
-    Linear Search is a simple search algorithm used to find an element in an array. In this method, we start at the beginning of the array and check each element one by one until we find the desired element or reach the end of the array. This approach works for both sorted and unsorted arrays but can be inefficient if the array is large because each element must be checked sequentially.
+Linear Search is a simple search algorithm used to find an element in an array. In this method, we start at the beginning of the array and check each element one by one until we find the desired element or reach the end of the array. This approach works for both sorted and unsorted arrays but can be inefficient if the array is large because each element must be checked sequentially.
       
 
 <br> <br>
