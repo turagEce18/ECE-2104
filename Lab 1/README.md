@@ -10,7 +10,7 @@
   
 A stack is a linear data structure that follows the Last In First Out (LIFO) principle. It means that the element added last will be removed first. A stack can be implemented using arrays or linked lists. In this experiment, we will implement a stack using an array without using any Standard Template Library (STL).
 
-    Basic operations of a stack:
+Basic operations of a stack:
 
         Push: Adds an element to the stack.
         Pop: Removes the top element from the stack.
