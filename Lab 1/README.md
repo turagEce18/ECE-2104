@@ -12,8 +12,8 @@ A stack is a linear data structure that follows the Last In First Out (LIFO) pri
 
 Basic operations of a stack:
 
-Push: Adds an element to the stack.
-Pop: Removes the top element from the stack.
+ Push: Adds an element to the stack.
+ Pop: Removes the top element from the stack.
       
 
 <br> <br>
