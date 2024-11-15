@@ -8,7 +8,7 @@
                  
 <br>                 
   
-    A Linked List is a data structure used for storing collections of data. Unlike arrays, linked lists do not have a fixed size, and elements (called nodes) are connected using pointers. Each node contains two parts: data and a pointer to the next node in the list. There are three main types of linked lists:
+A Linked List is a data structure used for storing collections of data. Unlike arrays, linked lists do not have a fixed size, and elements (called nodes) are connected using pointers. Each node contains two parts: data and a pointer to the next node in the list. There are three main types of linked lists:
 
     Singly Linked List: Each node points to the next node, forming a chain.
     Doubly Linked List: Each node points to both the next and previous nodes.
