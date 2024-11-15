@@ -8,7 +8,7 @@
                  
 <br>                 
   
-    Selection Sort is a simple comparison-based sorting algorithm. It works by repeatedly selecting the smallest (or largest) element from the unsorted portion of the array and swapping it with the first unsorted element. This process is repeated until the entire array is sorted. The algorithm has a time complexity of O(n²), making it inefficient for large arrays. However, it is easy to understand and implement for smaller datasets.
+Selection Sort is a simple comparison-based sorting algorithm. It works by repeatedly selecting the smallest (or largest) element from the unsorted portion of the array and swapping it with the first unsorted element. This process is repeated until the entire array is sorted. The algorithm has a time complexity of O(n²), making it inefficient for large arrays. However, it is easy to understand and implement for smaller datasets.
       
 
 <br> <br>
