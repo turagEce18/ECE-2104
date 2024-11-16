@@ -1,6 +1,6 @@
 ### **<u>Experiment No:</u> 03**
 
-### **<u>Experiment Name:</u> Implementing Linked List without STL.** 
+### **<u>Experiment Name:</u> Implementing Linked List without STL** 
 
 <br>
 
